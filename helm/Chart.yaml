@@ -1,0 +1,14 @@
+apiVersion: v2
+name: isb-salam-commodity-forward
+description: "BIAN Service Domain: Salam Commodity Forward (Fulfill pattern, Islamic Financing)"
+type: application
+version: 0.1.0
+appVersion: "0.1.0"
+keywords:
+  - islamic-banking
+  - fulfill
+annotations:
+  isb/business-area: "Islamic Financing"
+  isb/business-domain: "Sale Based Financing"
+  isb/asset-type: "Salam Contract"
+  isb/control-record: "Salam Contract Fulfillment Arrangement"
